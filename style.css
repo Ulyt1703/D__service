@@ -67,10 +67,12 @@ html::-webkit-scrollbar-track {
     transition: 0.85s;
 }
 .title-about.new__title-about{
+    position: relative;
+    top: -45px;
     color: #0a7388;
 }
 .box-about{
-    padding: 100px 0 0 0;
+    padding: 55px 0 0 0;
     display: flex;
     gap: 110px;
     justify-content: space-around;
