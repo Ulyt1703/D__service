@@ -48,14 +48,14 @@ html::-webkit-scrollbar-track {
 .video-title{
     color: #0a7388;
     text-align: center;
-    padding: 520px 0 0 0;
+    padding: 440px 0 0 0;
     user-select: none;
 }
 .video-remake{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    padding: 170px 0 0 0;
+    padding: 90px 0 0 0;
     gap: 25px;
 }
 
@@ -86,19 +86,20 @@ html::-webkit-scrollbar-track {
     color: rgb(0, 36, 83);
 }
 .accordion-item{
-    padding: 300px 0 0 0;
+    padding: 280px 0 0 0;
 }
 .accordion__title{
     color: #140aa0;
     font-family: "Roboto";
     font-weight: 550;
+    padding: 10px 0 0 0;
 }
 .accordion__Description{
     font-family: "Roboto";
     font-weight: 500;
 }
 .Footer{
-    padding: 0 0 30px 0;
+    padding: 100px 0 30px 0;
 }
 .Box{
     display: flex;
@@ -114,7 +115,7 @@ html::-webkit-scrollbar-track {
 .info-Footer{
     position: relative;
     z-index: 1;
-    top: 420px;
+    top: 530px;
     text-align: center;
     color: transparent;
     font-size: 18px;
@@ -166,7 +167,7 @@ html::-webkit-scrollbar-track {
         padding: 0 0 200px 0;
     }
     .info-Footer{
-        top: 300px;
+        top: 420px;
         font-size: 15px;
     }
 }
@@ -189,7 +190,7 @@ html::-webkit-scrollbar-track {
     }
     .info-Footer{
         font-size: 13.5px;
-        top: 255px;
+        top: 345px;
     }
     .social-Network{
         width: 100px;
@@ -228,7 +229,7 @@ html::-webkit-scrollbar-track {
     }
     .info-Footer{
         font-size: 11px;
-        top: 235px;
+        top: 330px;
     }
     .social-Network{
         width: 100px;
