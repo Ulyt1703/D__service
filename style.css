@@ -23,15 +23,10 @@ html::-webkit-scrollbar-thumb {
 
 html::-webkit-scrollbar-track {
 }
-.father-logo{
-    position: relative;
-    width: 190px;
-    overflow: hidden;
-}
 .logo{
     position: relative;
-    top: -20px;
-    left: -25px;
+    top: 10px;
+    left: -5px;
     width: 155px;
 }
 
@@ -48,7 +43,7 @@ html::-webkit-scrollbar-track {
 .video-title{
     color: #0a7388;
     text-align: center;
-    padding: 440px 0 0 0;
+    padding: 200px 0 0 0;
     user-select: none;
 }
 .video-remake{
@@ -117,14 +112,10 @@ html::-webkit-scrollbar-track {
     z-index: 1;
     top: 530px;
     text-align: center;
-    color: transparent;
+    color: rgb(4, 255, 4);
     font-size: 18px;
     font-weight: 600;
     user-select: none;
-    transition: 0.9s;
-}
-.info-Footer.text-lime{
-    color: rgb(4, 255, 4);
 }
 .social-Network{
     margin: 0 20px;

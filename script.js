@@ -18,12 +18,3 @@ window.addEventListener("scroll", function(){
     }
 })
 
-let textFooter = document.querySelector(".info-Footer")
-window.addEventListener("scroll", function(){
-    if(scrollY > 2500){
-        textFooter.classList.add("text-lime")
-    }
-    else{
-        textFooter.classList.remove("text-lime")
-    }
-})
